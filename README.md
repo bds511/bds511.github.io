@@ -76,3 +76,9 @@ ___
 https://github.com/bds511/Game
 
 pygame을 활용하여 테트리스 게임을 구현하였습니다.
+
+#### Snake
+
+https://github.com/bds511/snake
+
+jquery를 활용하여 스네이크 게임을 구현해보았습니다.
