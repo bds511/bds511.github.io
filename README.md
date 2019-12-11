@@ -16,6 +16,18 @@ https://bds511.github.io
 
 ## 포트폴리오 리스트
 
+### Django + Vue
+
+___
+
+#### 영화 큐레이션 서비스
+
+https://vue-deploy-test-d9eca.firebaseapp.com/
+git ( https://lab.ssafy.com/dsbang/project_final )
+
+django Restframework + vue를 활용하여 SPA를 제작하였습니다.
+
+
 
 ### Django
 
